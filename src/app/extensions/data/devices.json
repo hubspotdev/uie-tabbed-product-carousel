@@ -1,0 +1,169 @@
+[
+  {
+    "name": "iPad Air (5th Generation)",
+    "model_type": "Wi-Fi",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-air-5th-gen-wifi-purple-202409?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1721699936342",
+      "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111887_sp866-ipad-air-5gen.png",
+      "https://smalldog.com/cdn/shop/files/2_5688b571-81fb-4d3e-b80f-5c00781128a2.jpg?v=1716405800&width=1445"
+    ],
+    "visual_specs": {
+      "length": "247.6 mm (9.75 inches)",
+      "width": "178.5 mm (7.02 inches)",
+      "depth": "6.1 mm (0.24 inches)",
+      "weight": "461 grams (1.02 pounds)",
+      "display_size": "10.9-inch Liquid Retina display",
+      "resolution": "2360 x 1640 pixels at 264 ppi"
+    },
+    "hardware_specs": {
+      "chip": "Apple M1 chip",
+      "cpu": "8-core CPU",
+      "gpu": "8-core GPU",
+      "neural_engine": "16-core Neural Engine",
+      "ram": "8GB",
+      "storage_options": ["64GB", "256GB"]
+    },
+    "software_specs": {
+      "operating_system": "iPadOS 15 (or later)",
+      "key_features": ["Multitasking", "Apple Pencil support (2nd generation)", "Magic Keyboard compatibility"]
+    },
+    "camera_specs": {
+      "rear_camera": "12MP Wide camera, ƒ/1.8 aperture",
+      "front_camera": "12MP Ultra Wide camera, 122° field of view, ƒ/2.4 aperture",
+      "video_recording": "4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps"
+    }
+  },
+  {
+    "name": "iPad Pro (12.9-inch, 6th Generation)",
+    "model_type": "Wi-Fi + Cellular",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-pro-13inch-6th-gen-wifi-spacegray-202409?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1721694129629",
+      "https://webobjects2.cdw.com/is/image/CDW/6626589?wid=784&hei=477&resMode=bilin&fit=fit,1",
+      "https://i5.walmartimages.com/asr/14aa40a3-ab2f-40c9-b32c-71de08214395.71b68e824385033c644b3d6e498ae170.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    ],
+    "visual_specs": {
+      "length": "280.6 mm (11.04 inches)",
+      "width": "214.9 mm (8.46 inches)",
+      "depth": "6.4 mm (0.25 inches)",
+      "weight": "682 grams (1.5 pounds)",
+      "display_size": "12.9-inch Liquid Retina XDR display",
+      "resolution": "2732 x 2048 pixels at 264 ppi"
+    },
+    "hardware_specs": {
+      "chip": "Apple M2 chip",
+      "cpu": "8-core CPU",
+      "gpu": "10-core GPU",
+      "neural_engine": "16-core Neural Engine",
+      "ram": ["8GB (128GB, 256GB, 512GB storage)", "16GB (1TB, 2TB storage)"],
+      "storage_options": ["128GB", "256GB", "512GB", "1TB", "2TB"]
+    },
+    "software_specs": {
+      "operating_system": "iPadOS 16 (or later)",
+      "key_features": ["Reference Mode", "ProMotion technology", "Apple Pencil hover", "Thunderbolt / USB 4"]
+    },
+    "camera_specs": {
+      "rear_camera": "12MP Wide and 10MP Ultra Wide cameras",
+      "front_camera": "12MP Ultra Wide camera, 122° field of view, ƒ/2.4 aperture",
+      "video_recording": "4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps; ProRes video recording up to 4K at 30 fps (128GB storage) or 4K at 60 fps (256GB, 512GB, 1TB, and 2TB storage)"
+    }
+  },
+  {
+    "name": "Samsung Galaxy Tab S8+",
+    "model_type": "Wi-Fi",
+    "images": [
+      "https://m.media-amazon.com/images/I/51J9ksqYYtL.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCn_vM1tn6S77zgvCuf14EXMYPYT5Lv_Quw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sJ1bH_sDKLx3cNfRMlajYVHcZd05wB5HLw&s"
+    ],
+    "visual_specs": {
+      "length": "285.0 mm (11.22 inches)",
+      "width": "185.0 mm (7.28 inches)",
+      "depth": "5.7 mm (0.22 inches)",
+      "weight": "567 grams (1.25 pounds)",
+      "display_size": "12.4-inch Super AMOLED display",
+      "resolution": "2800 x 1752 pixels at 266 ppi"
+    },
+    "hardware_specs": {
+      "chip": "Snapdragon 8 Gen 1",
+      "cpu": "Octa-core",
+      "gpu": "Adreno 730",
+      "ram": ["8GB", "12GB"],
+      "storage_options": ["128GB", "256GB"]
+    },
+    "software_specs": {
+      "operating_system": "Android 12 (or later)",
+      "key_features": ["Multi-Active Window", "S Pen support", "Samsung DeX"]
+    },
+    "camera_specs": {
+      "rear_camera": "13MP Wide and 6MP Ultra Wide cameras",
+      "front_camera": "12MP Ultra Wide camera",
+      "video_recording": "4K video recording at 30/60 fps"
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro 9",
+    "model_type": "Wi-Fi",
+    "images": [
+      "https://i.pcmag.com/imagery/reviews/04oXeqT4MuFbMo7fc7QSrAx-2.fit_lim.size_1200x630.v1680110421.jpg",
+      "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Render-of-surface-Pro?fmt=png-alpha&scl=1",
+      "https://cdn.mos.cms.futurecdn.net/XyJKo4pn6KjZGjNinM5w9W.jpg"
+    ],
+    "visual_specs": {
+      "length": "287 mm (11.3 inches)",
+      "width": "209 mm (8.2 inches)",
+      "depth": "9.3 mm (0.37 inches)",
+      "weight": "879 grams (1.94 pounds)",
+      "display_size": "13-inch PixelSense Flow display",
+      "resolution": "2880 x 1920 pixels at 267 ppi"
+    },
+    "hardware_specs": {
+      "chip": "12th Gen Intel Core i5 or i7",
+      "cpu": "Quad-core",
+      "gpu": "Intel Iris Xe Graphics",
+      "ram": ["8GB", "16GB", "32GB"],
+      "storage_options": ["128GB", "256GB", "512GB", "1TB"]
+    },
+    "software_specs": {
+      "operating_system": "Windows 11",
+      "key_features": ["Tablet mode", "Surface Pen support", "Thunderbolt 4 ports"]
+    },
+    "camera_specs": {
+      "rear_camera": "10MP autofocus camera with 1080p HD and 4K video",
+      "front_camera": "5.0MP front-facing camera with 1080p HD video",
+      "video_recording": "1080p HD and 4K video recording"
+    }
+  },
+  {
+    "name": "Google Pixel Tablet",
+    "model_type": "Wi-Fi",
+    "images": [
+      "https://m.media-amazon.com/images/I/71nJxwi2gYL.jpg",
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6578/6578698_sd.jpg",
+      "https://m.media-amazon.com/images/I/71k+KbTBn5L._AC_UF894,1000_QL80_.jpg"
+    ],
+    "visual_specs": {
+      "length": "258.0 mm (10.1 inches)",
+      "width": "169.0 mm (6.6 inches)",
+      "depth": "8.1 mm (0.32 inches)",
+      "weight": "493 grams (1.09 pounds)",
+      "display_size": "11-inch LCD display",
+      "resolution": "2560 x 1600 pixels at 276 ppi"
+    },
+    "hardware_specs": {
+      "chip": "Google Tensor G2",
+      "cpu": "Octa-core",
+      "gpu": "Mali-G710 MP7",
+      "ram": "8GB",
+      "storage_options": ["128GB", "256GB"]
+    },
+    "software_specs": {
+      "operating_system": "Android 13 (or later)",
+      "key_features": ["Material You design", "Google Assistant integration", "Charging Speaker Dock"]
+    },
+    "camera_specs": {
+      "rear_camera": "8MP",
+      "front_camera": "8MP",
+      "video_recording": "1080p video recording at 30 fps"
+    }
+  }
+]

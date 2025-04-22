@@ -1,0 +1,19 @@
+{
+  "name": "Product Carousel by HubSpot Developer Relations Team",
+  "description": "This is an example private app that shows a custom card on the Contact record tab built with React-based frontend. This card demonstrates a simple handshake with HubSpot's serverless backend.",
+  "uid": "product-carousel-app",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write", "tickets"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/product-record-card.json"
+        }
+      ]
+    }
+  },
+  "webhooks": {
+    "file": "./webhooks/webhooks.json"
+  }
+}

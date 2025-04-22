@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Product Record",
+    "uid": "tabbed-product-record-card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "ProductRecord.tsx"
+    },
+    "objectTypes": [{ "name": "tickets" }]
+  }
+}

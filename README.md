@@ -59,14 +59,13 @@ When making changes to configuration files ({CARD\_NAME}-card.json and app.json)
 
 This card is configured to be viewed on Ticket records. To view the card for development, navigate to any Ticket record and select `Customize record`. Select the view you'd like to update from the table and choose `Add cards`.
 
-<img width="1453" alt="Screenshot 2025-02-20 at 11 17 13 AM" src="https://github.com/user-attachments/assets/039b54a1-6b76-41ea-a452-cc3585c6f1ae" />
+<img width="1450" alt="Adding the Product Carousel to the dashboard of a Ticket object in HubSpot's CRM" src="https://github.com/user-attachments/assets/6ae24141-f3c5-4795-8f9e-94f163f3e4ba" />
+
 
 ### Using the Product Carousel Card
 This app card allows you to select one of five devices from a drop-down list. When a device is selected, you can browse through a carousel of images and view data about it, separated into tabs.
 
-
-
-
+<img src="https://github.com/user-attachments/assets/d37ec805-b36f-456b-b828-b178c43ccc90" width="500"/>
 
 ## Learn More About App Cards Powered by UI Extensions
 

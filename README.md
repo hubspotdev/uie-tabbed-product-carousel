@@ -70,3 +70,7 @@ This app card allows you to select one of five devices from a drop-down list. Wh
 ## Learn More About App Cards Powered by UI Extensions
 
 To learn more about building public app cards, visit the [HubSpot app cards landing page](https://developers.hubspot.com/build-app-cards) and check out the [HubSpot private app cards developer documentation](https://developers.hubspot.com/docs/guides/crm/private-apps/quickstart).
+
+---
+
+**Created By:** `Bree Hall` & `Paul Gaskin`

@@ -4,7 +4,7 @@ A HubSpot UI Extensions app card that displays product information in a tabbed i
 
 ## Overview
 
-This [private app card](https://developers.hubspot.com/docs/guides/crm/private-apps/creating-private-apps) built with UI Extensions combines a dynamic photo carousel with a tabbed interface that displays device information in list format.
+This [private app card](https://developers.hubspot.com/docs/guides/crm/private-apps/creating-private-apps), built with UI Extensions, combines a dynamic photo carousel with a tabbed interface that displays device information in list format.
 
 
 ### Project Structure
@@ -65,7 +65,7 @@ This card is configured to be viewed on Ticket records. To view the card for dev
 ### Using the Product Carousel Card
 This app card allows you to select one of five devices from a drop-down list. When a device is selected, you can browse through a carousel of images and view data about it, separated into tabs.
 
-<img src="https://github.com/user-attachments/assets/d37ec805-b36f-456b-b828-b178c43ccc90" width="500"/>
+<img src="https://github.com/user-attachments/assets/726ee079-5875-4f79-9925-377d46fb9c53" width="500"/>
 
 ## Learn More About App Cards Powered by UI Extensions
 

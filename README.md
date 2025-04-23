@@ -2,6 +2,8 @@
 
 A HubSpot UI Extensions app card that displays product information in a tabbed interface with an image carousel, allowing users to browse through device specifications and photos.
 
+<img width="679" alt="Completed product carousel card using HubSpot's UI Extensions" src="https://github.com/user-attachments/assets/dd4cc161-f795-4417-9e82-6e345e0b4097" />
+
 ## Overview
 
 This [private app card](https://developers.hubspot.com/docs/guides/crm/private-apps/creating-private-apps), built with UI Extensions, combines a dynamic photo carousel with a tabbed interface that displays device information in list format.
